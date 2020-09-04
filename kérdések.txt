@@ -1,0 +1,7 @@
+pénz:
+	-mennyi a büdzsé
+	-mennyire akarunk szép megoldást(boltból vett műszerdoboz\3d nyomtatott doboz\csak nyák)
+	-mennyire akarunk minőségi megoldást(alkatrészek minősége(mi a lényeg, hogy csak bizonyításképp működjön? használható legyen rendesen?))
+	-mennyire akarunk bonyolítást? (adott idő után kikapcsolás, tft kijelző mondjuk)
+	-lehet-e 230-at kötögetni, vagy kis feszültségről működjön inkább(230-nál gondolni kell földelésre ilyenek)
+	-mennyire kell belefolynod a programozásba?
