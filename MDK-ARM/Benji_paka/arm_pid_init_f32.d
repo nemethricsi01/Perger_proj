@@ -1,0 +1,9 @@
+benji_paka\arm_pid_init_f32.o: ..\Src\arm_pid_init_f32.c
+benji_paka\arm_pid_init_f32.o: ../Inc/arm_math.h
+benji_paka\arm_pid_init_f32.o: ../Drivers/CMSIS/Include/core_cm0.h
+benji_paka\arm_pid_init_f32.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+benji_paka\arm_pid_init_f32.o: ../Drivers/CMSIS/Include/cmsis_version.h
+benji_paka\arm_pid_init_f32.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+benji_paka\arm_pid_init_f32.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+benji_paka\arm_pid_init_f32.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+benji_paka\arm_pid_init_f32.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
