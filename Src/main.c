@@ -150,7 +150,6 @@ int main(void)
 		actbutton3 = HAL_GPIO_ReadPin(GPIOA,GPIO_PIN_5);
 		if((actbutton1 != lastbutton1)||(actbutton2 != lastbutton2)||(actbutton3 != lastbutton3))
 		{
-			
 			prelltimer = 5;
 			while(prelltimer >0)
 			{
