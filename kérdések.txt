@@ -1,0 +1,10 @@
+pénz:
+	-mennyi a büdzsé-max 20
+	-mennyire akarunk szép megoldást(boltból vett műszerdoboz\3d nyomtatott doboz\csak nyák)3d nyomtat
+	-mennyire akarunk minőségi megoldást(alkatrészek minősége(mi a lényeg, hogy csak bizonyításképp működjön? használható legyen rendesen?)) legyen JÓ
+	-mennyire akarunk bonyolítást? (adott idő után kikapcsolás, tft kijelző mondjuk)oled,alvás van
+	-lehet-e 230-at kötögetni, vagy kis feszültségről működjön inkább(230-nál gondolni kell földelésre ilyenek)
+	-mennyire kell belefolynod a programozásba? kell
+	-legyen encoder
+	-legyen PID
+	-euroblock?!
